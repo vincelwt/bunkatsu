@@ -1,14 +1,20 @@
-# bunkatsu 🗾✂️ – learner‑friendly Japanese tokenizer
+<div align="center">
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/477b9c77-7c8f-43b4-816e-6f3d3cc2cfc5" alt="Abso banner" width=600 />
+</p>
+
+</div>
 
 `bunkatsu` (“division; segmentation” in Japanese) turns raw Japanese text
 into **human‑sized word chunks**.
 
 It builds on top of
 [kuromojin](https://github.com/ikatyang/kuromojin)—which exposes the
-industrial‑strength [Kuromoji](https://www.atilika.org/) tokenizer—and then
+great [Kuromoji](https://www.atilika.org/) tokenizer—and then
 glues many of the overly fine‑grained splits to make it easier for language learners.
 
-It is currently used by (Lexirise)[https://lexirise.app] to segment text parsed from comics.
+It is currently used by [Lexirise][https://lexirise.app] to segment text parsed from comics.
 
 ## Why not use Kuromoji directly?
 
@@ -81,4 +87,4 @@ MIT
 
 ## Credits
 
-Made by (Vince)[https://x.com/cldstart]
+Made by [Vince](https://x.com/cldstart)
