@@ -9,12 +9,15 @@
     "url": "https://github.com/vincelwt"
   },
   "devDependencies": {
-    "@types/bun": "latest"
+    "@types/bun": "*"
   },
   "peerDependencies": {
     "typescript": "^5"
   },
   "dependencies": {
     "kuromojin": "^3.0.1"
+  },
+  "scripts": {
+    "test": "bun test"
   }
 }
