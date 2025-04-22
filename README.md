@@ -1,7 +1,8 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/477b9c77-7c8f-43b4-816e-6f3d3cc2cfc5" alt="Abso banner" width=600 />
+
+  <img src="https://github.com/user-attachments/assets/f8e01fbe-0e30-486b-bcd5-d84a8b94bf51" alt="Bunkatsu banner" width=600 />
 </p>
 
 </div>
