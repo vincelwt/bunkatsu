@@ -1,0 +1,20 @@
+{
+  "name": "bunkatsu",
+  "module": "index.ts",
+  "types": "index.ts",
+  "type": "module",
+  "private": false,
+  "author": {
+    "name": "Vince Loewe",
+    "url": "https://github.com/vincelwt"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "kuromojin": "^3.0.1"
+  }
+}
